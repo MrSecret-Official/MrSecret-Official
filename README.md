@@ -1,4 +1,3 @@
-# {[USER]}
 import user_description
 
 print("""
