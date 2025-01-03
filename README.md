@@ -1,4 +1,5 @@
-# import user_description
+# {[USER]}
+import user_description
 
 print("""
 ┌────────────────────────────────────────────┐  
